@@ -1,0 +1,25 @@
+# Blender MTL File: 'uploads_files_2551448_nike+tshirt.blend'
+# Material Count: 2
+
+newmtl FABRIC_2_FRONT_93425
+Ns 144.424728
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd unnamed_(3).jpg
+
+newmtl large_thumbnail
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd nike.png
+
