@@ -1,1 +1,1 @@
-# Loading Wavefront objects using pygame / pyopengl
+Loading Wavefront objects using pygame / pyopengl
